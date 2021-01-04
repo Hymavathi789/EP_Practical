@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE class SYSTEM "Task-1.dtd">
+<class>
+	<student sid="a">
+		<name>Harika</name>
+		<id>1900</id>
+		<branch>CSE</branch>
+		<cgpa>9.29</cgpa>
+	</student>
+	
+	<student sid="b">
+		<name>Rajesh</name>
+		<id>1902</id>
+		<branch>CSE</branch>
+		<cgpa>9.01</cgpa>
+	</student>
+	
+	<student sid="c">
+		<name>Radhika</name>
+		<id>1901</id>
+		<branch>ECE</branch>
+		<cgpa>9.32</cgpa>
+	</student>
+	
+	<student sid="d">
+		<name>Priyanka</name>
+		<id>1903</id>
+		<branch>CSE</branch>
+		<cgpa>9.54</cgpa>
+	</student>
+	
+	<student sid="e">
+		<name>Rahul</name>
+		<id>1904</id>
+		<branch>ECE</branch>
+		<cgpa>8.92</cgpa>
+	</student>
+	
+</class>
