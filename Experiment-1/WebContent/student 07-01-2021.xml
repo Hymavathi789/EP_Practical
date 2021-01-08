@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="xsl" href="student 07-01-2021.xsl"?>
+<students>
+	<student sid="a">
+		<id>1901</id>
+		<name>Raju</name>
+		<email>r@a.com</email>
+		<marks>90</marks>
+		<class>first</class>
+	</student>
+	<student sid="b">
+		<id>1902</id>
+		<name>Ram</name>
+		<email>ra@a.com</email>
+		<marks>92</marks>
+		<class>first</class>
+	</student>
+	<student sid="c">
+		<id>1903</id>
+		<name>karthik</name>
+		<email>kar@a.com</email>
+		<marks>95</marks>
+		<class>first</class>
+	</student>
+	<student sid="d">
+		<id>1904</id>
+		<name>priya</name>
+		<email>pry@a.com</email>
+		<marks>94</marks>
+		<class>first</class>
+	</student>
+	<student sid="e">
+		<id>1905</id>
+		<name>Rajani</name>
+		<email>raji@a.com</email>
+		<marks>93</marks>
+		<class>first</class>
+	</student>
+</students>
